@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main assigns a random interger to n
+ * main - assigns a random interger to n
  * it executes, and prints it
- * Returns 0 (Success)
+ * Return: 0 (Success)
  */
 
 int main(void)
